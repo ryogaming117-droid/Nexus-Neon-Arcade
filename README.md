@@ -15,8 +15,8 @@ Nexus Neon Arcade brings your own games into a visual Android and Windows PC lib
 | Platform | Version | Download |
 | --- | --- | --- |
 | Android / Android TV | 3.3.4 test | [Android APK](NexusNeonArcade-Android-3_3_4-test-1.apk?raw=true) |
-| Windows PC — installer | 1.48.3 | [Setup ZIP](/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/pc-v1.48.3/NexusNeonArcade-Setup-1_48_3.zip) |
-| Windows PC — portable | 1.48.3 | [Portable ZIP](/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/pc-v1.48.3/NexusNeonArcade-Portable-1_48_3.zip) |
+| Windows PC — installer | 1.48.3 | [Setup ZIP](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/pc-v1.48.3/NexusNeonArcade-Setup-1_48_3.zip) |
+| Windows PC — portable | 1.48.3 | [Portable ZIP](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/pc-v1.48.3/NexusNeonArcade-Portable-1_48_3.zip) |
 
 [Windows release notes and downloads](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/tag/pc-v1.48.3)
 
