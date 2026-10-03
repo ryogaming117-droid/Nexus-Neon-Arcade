@@ -6,11 +6,50 @@
 
 **By Ryo Nexus — Your retro game library, lit up in neon.**
 
-Nexus Neon Arcade brings your own games into a visual Android library with neon handheld and arcade cabinet themes. Browse by system, launch games with the built-in player or a compatible emulator app, and navigate with touch, a controller, a TV remote, or a keyboard.
+Nexus Neon Arcade brings your own games into a visual Android and Windows PC library with neon handheld and arcade cabinet themes. Browse by system, launch games with the built-in player or a compatible emulator app, and navigate with touch, a controller, a TV remote, or a keyboard.
 
-**Current download: Android 3.3.4 test build.** This repository contains the APK, artwork, and this guide; a buildable source project is not included. Feature availability and game performance depend on the device, game, and emulator engine.
+**Current downloads: Android 3.3.4 test build and Windows PC 1.48.3 (installer and portable).** This repository and its releases contain the app packages, artwork, and this guide; a buildable source project is not included. Feature availability and game performance depend on the device, game, and emulator engine.
 
-## Download and install
+## Downloads
+
+| Platform | Version | Download |
+| --- | --- | --- |
+| Android / Android TV | 3.3.4 test | [Android APK](NexusNeonArcade-Android-3_3_4-test-1.apk?raw=true) |
+| Windows PC — installer | 1.48.3 | [Setup ZIP](/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/pc-v1.48.3/NexusNeonArcade-Setup-1_48_3.zip) |
+| Windows PC — portable | 1.48.3 | [Portable ZIP](/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/pc-v1.48.3/NexusNeonArcade-Portable-1_48_3.zip) |
+
+[Windows release notes and downloads](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/tag/pc-v1.48.3)
+
+## Windows PC edition
+
+Nexus Neon Arcade for Windows brings retro games, installed PC games, and programs into a neon library. It supports a built-in player for compatible systems, configured external emulators and RetroArch, favourites and recent history, artwork and video previews, and handheld or arcade cabinet themes with custom colours and backgrounds.
+
+The PC edition detects installed games from **Steam, GOG Galaxy, Epic Games Launcher, and the Xbox app (Game Pass)**. Add your own programs through **Main Menu > PC Apps**. Games still require their installations, launchers, and any applicable accounts. Emulator and game compatibility depends on your hardware and setup.
+
+### Install the Windows setup package
+
+1. Download **Setup ZIP** from the table above.
+2. Right-click the ZIP and choose **Extract All**. Extract the entire package.
+3. Open the extracted folder and run **Install Nexus Neon Arcade.cmd**.
+4. Press Enter for the suggested installation folder, or enter another folder.
+5. Start Nexus Neon Arcade and configure your game library.
+
+The included installer supports updating an existing copy while keeping settings, favourites, play history, and scraped artwork. Back up your data before updating. Uninstall through **Windows Settings > Apps > Nexus Neon Arcade**.
+
+### Use the portable Windows package
+
+1. Download **Portable ZIP** and extract the entire archive.
+2. Keep the extracted **Nexus Neon Arcade** folder together, on your PC or an external drive.
+3. Run **Nexus Neon Arcade.exe** from that folder.
+4. Put your games in a **ROMs** folder beside the app folder, with subfolders such as **ROMs/snes** or **ROMs/ps2**, or select your ROM folder in the main menu.
+5. Press **Start** on a controller or **S** on the keyboard for the main menu. Use **Emulator settings > Scan this PC** to find installed external emulators, then configure your library and rescan.
+
+Emulators can also be kept on the external drive. The portable edition saves settings, favourites, history, custom emulators, PC Apps, and artwork in its local **data** folder. Keep **nexus-portable.ini** for portable data storage; saved paths adapt when the drive letter changes. Installed Start-menu apps only launch on PCs where they are installed. Optional full-screen startup is available under **Other settings > Open when you sign in to Windows** on the PC where it is enabled.
+
+The built-in player may need engine downloads and BIOS files from your own consoles. ROMs and BIOS files are not included. The ZIPs are Windows app packages; GitHub's automatically generated “Source code” archives are repository snapshots, not installers or a complete buildable app project.
+
+## Android download and installation
+
 
 [Download the Android 3.3.4 test APK](NexusNeonArcade-Android-3_3_4-test-1.apk?raw=true)
 
@@ -20,7 +59,7 @@ Nexus Neon Arcade brings your own games into a visual Android library with neon 
 
 An APK installs on Android; it is not a Windows installer. This is a test build, so keep backups of your game saves before testing.
 
-## What the app does
+## Android features
 
 - **Organises your game library:** scan a ROM folder, browse games by system, switch between lists and cover-art grids, and access favourites and recently played games.
 - **Plays supported games inside Nexus:** the built-in player uses emulator engines downloaded when needed, with on-screen controls, controller support, picture scaling, and engine settings. Some systems require BIOS files.
@@ -32,7 +71,7 @@ An APK installs on Android; it is not a Windows installer. This is a test build,
 - **Customises the presentation:** neon handheld or arcade cabinet themes, colour schemes and custom colours, backgrounds, cabinet concept art, glow and CRT effects, text size, UI scale, and game layouts.
 - **Provides game tools:** favourites, game details, guides, cheats, and an in-game pause menu. Save/load state and other in-game actions depend on the selected engine or external emulator integration.
 
-## Set up your library
+## Set up your Android library
 
 1. Put your game files in subfolders named for their systems, for example **ROMs/snes**, **ROMs/ps2**, or **ROMs/arcade**.
 2. Open the main menu using **Start** on a controller or the on-screen menu button.
