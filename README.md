@@ -10,6 +10,12 @@ Nexus Neon Arcade brings your own games into a visual Android and Windows PC lib
 
 **Current downloads: Android 3.3.4 test build and Windows PC 1.48.3 (installer and portable).** This repository and its releases contain the app packages, artwork, and this guide; a buildable source project is not included. Feature availability and game performance depend on the device, game, and emulator engine.
 
+## Licence and source availability
+
+**Proprietary / closed source for original Nexus Neon Arcade material.** Copyright © 2026 Ryo Nexus, to the extent rights are owned by Ryo Nexus. All rights reserved. See [LICENSE.txt](LICENSE.txt) for the permission to download, install, and use official app packages and the restrictions on modification and redistribution.
+
+This public repository is a distribution and documentation page. A complete development source project is not published here. Public downloads do not grant an open-source licence to original code or artwork. Third-party components retain their respective licences, including any attribution and corresponding-source requirements; those obligations are not replaced by this notice. A full dependency licence audit has not been completed. Code included inside distributed packages may still be inspectable or extractable.
+
 ## Downloads
 
 | Platform | Version | Download |
