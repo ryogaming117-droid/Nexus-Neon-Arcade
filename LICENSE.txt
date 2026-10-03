@@ -1,0 +1,22 @@
+NEXUS NEON ARCADE — PROPRIETARY LICENCE
+Copyright (c) 2026 Ryo Nexus. All rights reserved, to the extent rights are owned by Ryo Nexus.
+
+1. Scope
+This notice covers the original Nexus Neon Arcade code, original documentation, and original artwork owned by Ryo Nexus. It is not an open-source licence. Third-party material is excluded and remains under its respective licences.
+
+2. Permission to use the app
+You may download official published app packages, install and run them on devices you own or control, and retain reasonable backup copies for your own use. This permission does not transfer ownership or grant access to private development source code. Any separately applicable purchase or distribution terms remain in effect.
+
+3. Rights reserved
+Except for the permission above, applicable law, third-party licences, or written permission from Ryo Nexus, no permission is granted to modify, redistribute, sell copies, sublicense, or create derivative works of material owned by Ryo Nexus. No permission is granted to use the Nexus Neon Arcade name or artwork to imply endorsement. Nothing here restricts rights that cannot lawfully be restricted.
+
+4. Third-party components
+Electron, Chromium, fonts, emulator engines, libraries, and other third-party components retain their own copyright notices and licence terms. Those terms control for the relevant components and override conflicting restrictions here. Preserve their required notices. This licence does not waive any source-disclosure, attribution, redistribution, or other obligations imposed by third-party licences, and does not assert ownership of third-party code. Component licensing and corresponding-source requirements must be assessed for each distributed build; this notice is not a completed dependency audit.
+
+5. Public distribution and private development
+This repository is intended for app downloads, artwork, and documentation. Public availability does not grant an open-source licence to original material. Rights granted by GitHub's terms for use of its service remain unaffected. Closed-source licensing is not a technical guarantee against inspection or extraction of code included in distributed packages, and cannot revoke previously granted rights.
+
+6. Warranty
+To the extent permitted by applicable law, the software is provided as is, without warranties of merchantability, fitness for a particular purpose, or non-infringement. To the extent permitted by applicable law, Ryo Nexus is not liable for damages arising from use of the software. Mandatory consumer rights remain unaffected.
+
+For permissions beyond this licence, contact the repository owner through the project's GitHub page.
