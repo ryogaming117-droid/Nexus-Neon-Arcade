@@ -12,7 +12,7 @@ Visit [Ryo Nexus Tech on YouTube](https://youtube.com/@ryonexustech?si=mw7bHIdB4
 
 Nexus Neon Arcade brings your own games into a visual Android and Windows PC library with neon handheld and arcade cabinet themes. Browse by system, launch games with the built-in player or a compatible emulator app, and navigate with touch, a controller, a TV remote, or a keyboard.
 
-**Current downloads: Android 3.3.4 test build and Windows PC 1.48.3 (installer and portable).** This repository and its releases contain the app packages, artwork, and this guide; a buildable source project is not included. Feature availability and game performance depend on the device, game, and emulator engine.
+**Current downloads: Android 3.3.4 test build and Windows PC 1.49.2 (installer and portable).** This repository and its releases contain the app packages, artwork, and this guide; a buildable source project is not included. Feature availability and game performance depend on the device, game, and emulator engine.
 
 ## Licence and source availability
 
@@ -25,10 +25,10 @@ This public repository is a distribution and documentation page. A complete deve
 | Platform | Version | Download |
 | --- | --- | --- |
 | Android / Android TV | 3.3.4 test | [Android APK](NexusNeonArcade-Android-3_3_4-test-1.apk?raw=true) |
-| Windows PC — installer | 1.48.3 | [Setup ZIP](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/pc-v1.48.3/NexusNeonArcade-Setup-1_48_3.zip) |
-| Windows PC — portable | 1.48.3 | [Portable ZIP](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/pc-v1.48.3/NexusNeonArcade-Portable-1_48_3.zip) |
+| Windows PC — installer | 1.49.2 | [Setup EXE](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/pc-v1.49.2/NexusNeonArcade-Setup-1.49.2.exe) |
+| Windows PC — portable | 1.49.2 | [Portable ZIP](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/pc-v1.49.2/NexusNeonArcade-Portable-1_49_2.zip) |
 
-[Windows release notes and downloads](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/tag/pc-v1.48.3)
+[Windows release notes and downloads](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/tag/pc-v1.49.2)
 
 ## Windows PC edition
 
@@ -38,13 +38,11 @@ The PC edition detects installed games from **Steam, GOG Galaxy, Epic Games Laun
 
 ### Install the Windows setup package
 
-1. Download **Setup ZIP** from the table above.
-2. Right-click the ZIP and choose **Extract All**. Extract the entire package.
-3. Open the extracted folder and run **Install Nexus Neon Arcade.cmd**.
-4. Press Enter for the suggested installation folder, or enter another folder.
-5. Start Nexus Neon Arcade and configure your game library.
+1. Download **NexusNeonArcade-Setup-1.49.2.exe** using **Setup EXE** above.
+2. Run the downloaded EXE and follow the setup prompts.
+3. Start **Nexus Neon Arcade**, open the main menu with **Start** or **S**, and configure your game library.
 
-The included installer supports updating an existing copy while keeping settings, favourites, play history, and scraped artwork. Back up your data before updating. Uninstall through **Windows Settings > Apps > Nexus Neon Arcade**.
+Version 1.49.2 uses an EXE installer instead of the previous ZIP/CMD setup package. Back up your settings and saves before updating.
 
 ### Use the portable Windows package
 
@@ -56,7 +54,21 @@ The included installer supports updating an existing copy while keeping settings
 
 Emulators can also be kept on the external drive. The portable edition saves settings, favourites, history, custom emulators, PC Apps, and artwork in its local **data** folder. Keep **nexus-portable.ini** for portable data storage; saved paths adapt when the drive letter changes. Installed Start-menu apps only launch on PCs where they are installed. Optional full-screen startup is available under **Other settings > Open when you sign in to Windows** on the PC where it is enabled.
 
-The built-in player may need engine downloads and BIOS files from your own consoles. ROMs and BIOS files are not included. The ZIPs are Windows app packages; GitHub's automatically generated “Source code” archives are repository snapshots, not installers or a complete buildable app project.
+The built-in player may need engine downloads and BIOS files from your own consoles. ROMs and BIOS files are not included. The EXE and portable ZIP are Windows app packages; GitHub's automatically generated “Source code” archives are repository snapshots, not installers or a complete buildable app project.
+
+### PC built-in player controls
+
+The included 1.49.2 portable guide describes compatible RetroArch cores, using installed cores or downloading them when required. The first game may take extra time while Windows builds the player. Add required BIOS files under **Main Menu > Built-in player**.
+
+| Input | In-game action |
+| --- | --- |
+| L3 + R3 / Esc / Ctrl+Shift+P | Open pause menu |
+| F2 | Save state |
+| F4 | Load state |
+| Hold Tab | Fast-forward |
+| F11 | Toggle full screen |
+
+Pause-menu actions include save/load state, cheats, emulator settings, reset, next disc, browse Nexus and quit; support depends on the selected core. Portable saves, states and engine settings are kept in **data/player**. Preserve your **data** folder and **nexus-portable.ini** when updating.
 
 ## Android download and installation
 
@@ -145,3 +157,4 @@ To report an issue, use this repository's **Issues** tab and include the app ver
 ## Android TV artwork
 
 ![Nexus Neon Arcade Android TV banner](03-nexus-tv-banner-1280x720.png)
+
