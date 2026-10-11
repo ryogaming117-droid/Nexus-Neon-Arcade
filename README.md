@@ -36,6 +36,10 @@ The current Android and Windows packages are version **3.15.3**. Select the APK 
 
 ## Desktop Mode on Windows and Android
 
+### Desktop Mode for Nexus Neon Arcade
+
+![Desktop Mode for Nexus Neon Arcade](desktop-mode-for-nexus-neon-arcade.png)
+
 Version **3.15.3** includes a desktop workspace inside Nexus alongside Arcade Mode. Open **Main Menu > Switch to Desktop Mode**. Use **Main Menu > Desktop Mode** for desktop preferences and startup mode. Return with **Return to Arcade Mode** on the taskbar or in Start.
 
 Desktop Mode brings the file manager, apps, game library, emulators and settings into windows you can move, resize and snap. The file manager offers folder browsing, list/grid views, search, new folders, copy/cut/paste, rename, ZIP browsing and extraction, and importing ROMs or artwork. Available locations and operations depend on platform permissions.
@@ -172,6 +176,7 @@ To report an issue, use this repository's **Issues** tab and include the app ver
 ## Android TV artwork
 
 ![Nexus Neon Arcade Android TV banner](03-nexus-tv-banner-1280x720.png)
+
 
 
 
