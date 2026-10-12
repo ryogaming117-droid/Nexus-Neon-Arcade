@@ -12,7 +12,7 @@ Visit [Ryo Nexus Tech on YouTube](https://youtube.com/@ryonexustech?si=mw7bHIdB4
 
 Nexus Neon Arcade brings your own games into a visual Android and Windows PC library with neon handheld and arcade cabinet themes. Browse by system, launch games with the built-in player or a compatible emulator app, and navigate with touch, a controller, a TV remote, or a keyboard.
 
-**Current downloads: Android 3.15.5 and Windows PC 3.15.5 (installer and portable).** This repository and its releases contain the app packages, artwork, and this guide; a buildable source project is not included. Feature availability and game performance depend on the device, game, and emulator engine.
+**Current downloads: Android 3.16.1 and Windows PC 3.16.1 (installer and portable).** This repository and its releases contain the app packages, artwork, and this guide; a buildable source project is not included. Feature availability and game performance depend on the device, game, and emulator engine.
 
 ## Licence and source availability
 
@@ -24,15 +24,15 @@ This public repository is a distribution and documentation page. A complete deve
 
 | Platform | Version | Download |
 | --- | --- | --- |
-| Android / Android TV | 3.15.5 | [Android APK](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/v3.15.5/NexusNeonArcade-Android-3.15.5.apk) |
-| Windows PC — installer | 3.15.5 | [Setup EXE](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/v3.15.5/NexusNeonArcade-Setup-3.15.5.exe) |
-| Windows PC — portable | 3.15.5 | [Portable ZIP](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/v3.15.5/NexusNeonArcade-Portable-3_15_5.zip) |
+| Android / Android TV | 3.16.1 | [Android APK](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/v3.16.1/NexusNeonArcade-Android-3.16.1.apk) |
+| Windows PC — installer | 3.16.1 | [Setup EXE](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/v3.16.1/NexusNeonArcade-Setup-3.16.1.exe) |
+| Windows PC — portable | 3.16.1 | [Portable ZIP](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/v3.16.1/NexusNeonArcade-Portable-3_16_1.zip) |
 
-[Android and Windows release notes and downloads](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/tag/v3.15.5)
+[Android and Windows release notes and downloads](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/tag/v3.16.1)
 
-## Version 3.15.5
+## Version 3.16.1
 
-The current Android and Windows packages are version **3.15.5**. Select the APK for Android, the EXE for Windows installation, or the ZIP for portable Windows use. The usage guide below explains both platforms. These supplied packages supersede 3.15.4 and include Desktop Mode on Windows and Android, with an integrated file manager and windowed workspace. No exhaustive change log was supplied; installation and gameplay have not been tested here.
+The current Android and Windows packages are version **3.16.1**. Select the APK for Android, the EXE for Windows installation, or the ZIP for portable Windows use. The usage guide below explains both platforms. These supplied packages supersede 3.15.5 and include Desktop Mode on Windows and Android, with an integrated file manager and windowed workspace. No exhaustive change log was supplied; installation and gameplay have not been tested here.
 
 ## Desktop Mode on Windows and Android
 
@@ -40,7 +40,7 @@ The current Android and Windows packages are version **3.15.5**. Select the APK 
 
 ![Desktop Mode for Nexus Neon Arcade](desktop-mode-for-nexus-neon-arcade.png)
 
-Version **3.15.5** includes a desktop workspace inside Nexus alongside Arcade Mode. Open **Main Menu > Switch to Desktop Mode**. Use **Main Menu > Desktop Mode** for desktop preferences and startup mode. Return with **Return to Arcade Mode** on the taskbar or in Start.
+Version **3.16.1** includes a desktop workspace inside Nexus alongside Arcade Mode. Open **Main Menu > Switch to Desktop Mode**. Use **Main Menu > Desktop Mode** for desktop preferences and startup mode. Return with **Return to Arcade Mode** on the taskbar or in Start.
 
 Desktop Mode brings the file manager, apps, game library, emulators and settings into windows you can move, resize and snap. The file manager offers folder browsing, list/grid views, search, new folders, copy/cut/paste, rename, ZIP browsing and extraction, and importing ROMs or artwork. Available locations and operations depend on platform permissions.
 
@@ -57,11 +57,11 @@ The PC edition detects installed games from **Steam, GOG Galaxy, Epic Games Laun
 
 ### Install the Windows setup package
 
-1. Download **NexusNeonArcade-Setup-3.15.5.exe** using **Setup EXE** above.
+1. Download **NexusNeonArcade-Setup-3.16.1.exe** using **Setup EXE** above.
 2. Run the downloaded EXE and follow the setup prompts.
 3. Start **Nexus Neon Arcade**, open the main menu with **Start** or **S**, and configure your game library.
 
-The Windows 3.15.5 download uses an EXE installer. Back up your settings and saves before updating.
+The Windows 3.16.1 download uses an EXE installer. Back up your settings and saves before updating.
 
 ### Use the portable Windows package
 
@@ -77,7 +77,7 @@ The built-in player may need engine downloads and BIOS files from your own conso
 
 ### PC built-in player controls
 
-The included 3.15.5 portable guide describes compatible RetroArch cores, using installed cores or downloading them when required. The first game may take extra time while Windows builds the player. Add required BIOS files under **Main Menu > Built-in player**.
+The included 3.16.1 portable guide describes compatible RetroArch cores, using installed cores or downloading them when required. The first game may take extra time while Windows builds the player. Add required BIOS files under **Main Menu > Built-in player**.
 
 | Input | In-game action |
 | --- | --- |
@@ -92,7 +92,7 @@ Pause-menu actions include save/load state, cheats, emulator settings, reset, ne
 ## Android download and installation
 
 
-[Download the Android 3.15.5 APK](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/v3.15.5/NexusNeonArcade-Android-3.15.5.apk)
+[Download the Android 3.16.1 APK](https://github.com/ryogaming117-droid/Nexus-Neon-Arcade/releases/download/v3.16.1/NexusNeonArcade-Android-3.16.1.apk)
 
 1. Download the APK to your Android phone, tablet, or compatible Android TV device.
 2. Open the downloaded file. If Android asks, allow that browser or file manager to install this app, then complete installation.
@@ -176,6 +176,7 @@ To report an issue, use this repository's **Issues** tab and include the app ver
 ## Android TV artwork
 
 ![Nexus Neon Arcade Android TV banner](03-nexus-tv-banner-1280x720.png)
+
 
 
 
